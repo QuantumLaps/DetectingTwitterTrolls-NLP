@@ -21,4 +21,4 @@ Our work will include using various ML models such as :
 - Maahir Sharma
 - Rahul Das
 - Ravi Gusain
-- Aditya Balpandey[Uncertain!]
+- Aditya Bhalpande
