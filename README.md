@@ -22,3 +22,4 @@ Our work will include using various ML models such as :
 - Rahul Das
 - Ravi Gusain
 - Aditya Balpande
+- Sourav Thakur
