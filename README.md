@@ -1,5 +1,7 @@
 # DetectingTwitterTrolls-NLP
 
+[![GitHub license](https://img.shields.io/github/license/QuantumLaps/DetectingTwitterTrolls-NLP)](https://github.com/QuantumLaps/DetectingTwitterTrolls-NLP/blob/master/LICENSE)
+
 ### **Detecting Twitter Trolls using NLP by training on Message Bodies**
 The social media has seen a rapid growth in the last few decades. This has led to rise in the internet trolls and are gaining much more influence.
 
