@@ -11,7 +11,7 @@ Identifying a troll farm can be difficult, since the trolls try to stay hidden. 
 A machine learning model can be built to identify these types of tweets and this would help us to know, if these are real people's opinion or are created to divert people's opinion.
 
 Our work will include using various ML models such as :
-- Support Vector Machines.
+- Naive Bayes Classifier
 - Word2Vec and neural networks to find patterns in the tweets and classify them whether they are trolls or not and also determine which ML model gives the best accuracy.
 
 *We will host the model once it is completed.*
